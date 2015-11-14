@@ -1,0 +1,27 @@
+array(5) {
+ ["name"]=> array(3) { [0]=> string(12) "06 mysql.pdf" 
+					   [1]=> string(13) "07 mysqli.pdf" 
+					   [2]=> string(10) "08 pdo.pdf" }
+ ["type"]=> array(3) { [0]=> string(15) "application/pdf" 
+					   [1]=> string(15) "application/pdf" 
+					   [2]=> string(15) "application/pdf" } 
+ ["tmp_name"]=> array(3) { 
+					  [0]=> string(46) "C:\Users\Juanka\AppData\Local\Temp\php75A3.tmp" 
+					  [1]=> string(46) "C:\Users\Juanka\AppData\Local\Temp\php75B4.tmp" 
+					  [2]=> string(46) "C:\Users\Juanka\AppData\Local\Temp\php75B5.tmp" } 
+["error"]=> array(3) { 
+					  [0]=> int(0) 
+					  [1]=> int(0) 
+					  [2]=> int(0) } 
+["size"]=> array(3) { 
+					  [0]=> int(270086) 
+					  [1]=> int(116148) 
+					  [2]=> int(126075) } 
+}
+//El ha subido dos archivos
+array(2){
+	[0]=>array[5]{[name]=>"", ["type"]=>"", ["tmp_name"]=>"",["error"]=>"", ["size"]=""}
+	[1]=>array[5]{[name]=>"", ["type"]=>"", ["tmp_name"]=>"",["error"]=>"", ["size"]=""}
+}
+
+//Transformar el array de muchos archivos de la anterior manera!
